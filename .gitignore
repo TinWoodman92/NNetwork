@@ -1,0 +1,8 @@
+*.db
+*.db-journal
+*.lintr
+*demo*
+*notes*
+*test*
+!test_gen.r
+*version*
